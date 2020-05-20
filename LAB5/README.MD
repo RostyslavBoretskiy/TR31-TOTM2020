@@ -9,7 +9,7 @@
   j = 6
 </strong>
 <hr />
-<img src="https://github.com/RostyslavBoretskiy/TR31-TOTM2020/blob/master/LAB5/002.jpg" />
+<img src="https://github.com/RostyslavBoretskiy/TR31-TOTM2020/blob/master/LAB5/002.jpg" style="max-width: 300px;" />
 Теорема про пропускну здатність та максимальний потік
 <br />
 Можливе снування двох потоків
