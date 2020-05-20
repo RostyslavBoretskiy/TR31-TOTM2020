@@ -9,7 +9,7 @@
   j = 6
 </strong>
 <hr />
-<img src="https://github.com/RostyslavBoretskiy/TR31-TOTM2020/blob/master/LAB5/002.jpg" style="max-width: 300px;" />
+<img src="https://github.com/RostyslavBoretskiy/TR31-TOTM2020/blob/master/LAB5/002.jpg" style="width: 150px; height: 150px;" />
 Теорема про пропускну здатність та максимальний потік
 <br />
 Можливе снування двох потоків
@@ -23,7 +23,7 @@
 <br />
 С(1-5)=1500 Мбіт/с
 <br />
-
+<hr />
 
 <table class="tg">
 <thead>
